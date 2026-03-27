@@ -34,7 +34,7 @@
       <img src="https://avatars.githubusercontent.com/u/79358991?v=4" width="150" alt="Nayuta avatar" />
     </td>
     <td valign="top">
-      <strong>Nayuta</strong>
+      <strong>Ke Xing</strong>
       <br />
       PhD student at Beijing Jiaotong University.
       <br />
